@@ -1,0 +1,20 @@
+<Keyboard>
+  
+  <BackgroundColor>Transparent</BackgroundColor>
+  <BorderColor>Black</BorderColor>
+  <Opacity>1</Opacity>
+  <WindowState>Floating</WindowState>
+  <Height>100%</Height>
+  <Width>100%</Width>
+  <SymbolMargin>1</SymbolMargin>
+  <BorderThickness>0,0,0,0</BorderThickness>  
+  <Position>Top</Position>
+
+  <Grid>
+    <!-- TO GENERATE -->
+  </Grid>
+
+  <Content>
+    <!-- TO GENERATE -->
+  </Content>
+</Keyboard>
